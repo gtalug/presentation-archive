@@ -16,3 +16,6 @@
 [submodule "2014/09/myles-braithwaite_couchdb"]
 	path = 2014/09/myles-braithwaite_couchdb
 	url = https://github.com/myles/2014-09-09-couchdb.git
+[submodule "2015/03/myles-braithwaite_jrnl"]
+	path = 2015/03/myles-braithwaite_jrnl
+	url = https://github.com/myles/2015-03-10-jrnl.git
