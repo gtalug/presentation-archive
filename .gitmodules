@@ -10,3 +10,9 @@
 [submodule "2008/09"]
 	path = 2008/09
 	url = https://github.com/gtalug/meetings-2008-09.git
+[submodule "2015/04/myles-braithwaite_lesscss"]
+	path = 2015/04/myles-braithwaite_lesscss
+	url = https://github.com/myles/2015-04-14-lesscss.git
+[submodule "2014/09/myles-braithwaite_couchdb"]
+	path = 2014/09/myles-braithwaite_couchdb
+	url = https://github.com/myles/2014-09-09-couchdb.git
