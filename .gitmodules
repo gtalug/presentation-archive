@@ -1,0 +1,12 @@
+[submodule "2014/09/alex-volkov_zopedb"]
+	path = 2014/09/alex-volkov_zopedb
+	url = https://github.com/gtalug/meetings-2014-09.git
+[submodule "2013/11"]
+	path = 2013/11
+	url = https://github.com/gtalug/meetings-2013-11.git
+[submodule "2010/12"]
+	path = 2010/12
+	url = https://github.com/gtalug/meetings-2010-12.git
+[submodule "2008/09"]
+	path = 2008/09
+	url = https://github.com/gtalug/meetings-2008-09.git
