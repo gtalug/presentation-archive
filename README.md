@@ -6,6 +6,14 @@ Archive of all the stuff from past GTALUG meetings.
 
 The folder section for a normal meeting should be `<year>/<month>` (ex. `2015/12`) if it's a bunch of Lightening talks it should be `<year>/<month>/<name>_<presentation_name>` (ex. `2015/12/myles-braithwaite_couchdb`).
 
+If you presentation is stored on Git you can add a submodule with:
+
+```
+$ git submoudle add http://github.com/<username>/<repo>.git <year>/<month>
+$ git commit -m "Adding my presentation."
+$ git push
+```
+
 ## Presentations
 
 * 2008
